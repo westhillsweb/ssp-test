@@ -1,0 +1,15 @@
+{
+  "name": "honu",
+  "version": "0.0.2",
+  "description": "Honu, the Surf Shack communications hub. Step 0a hosting probe.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}
